@@ -1,0 +1,226 @@
+.food-munch-logo {
+    width: 80px;
+    height: 70px;
+    border-radius: 50%;
+
+}
+
+#navItem1 {
+    color: #181717;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+#navItem2 {
+    color: #141111;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+#navItem3 {
+    color: #0a0909;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+#navItem4 {
+    color: #0a0909;
+    font-family: "Roboto";
+    font-weight: bold;
+}
+
+.navbar-container {
+    background-color: powderblue;
+    height: 100%;
+    width: 100vw;
+}
+
+.first-page {
+    padding-bottom: 150px;
+}
+
+.text {
+    font-size: bold;
+    font-size: 50px;
+    margin-top: 180px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.text-down {
+    font-size: bold;
+    font-size: 20px;
+    margin-top: 10px;
+}
+
+.icon-container {
+    background-color: powderblue;
+    margin-bottom: 20px;
+}
+
+.icon {
+    height: 200px;
+    width: 10px;
+}
+
+.about-page {
+    background-color: rgb(89, 157, 234);
+    height: 100%;
+    width: 100vw;
+
+}
+
+.image-icon {
+    border-radius: 50%;
+    padding-top: 10px;
+    padding-left: 40px;
+}
+
+.about-text {
+    padding-top: 5px;
+}
+
+.text-about {
+    margin-top: 30px;
+    color: navy;
+    font-weight: 500;
+    text-align: center;
+}
+
+.skill-text {
+    font-size: medium;
+    padding-top: 40px;
+}
+
+.html-percentage {
+    background-color: wheat;
+    width: 100%;
+    height: 15px;
+    border-radius: 10px;
+}
+
+.html-button1 {
+    border-radius: 5px;
+    height: 30px;
+    text-align: center;
+    margin-left: 300px;
+    margin-top: 35px;
+    margin-bottom: 5px;
+
+}
+
+.html-button2 {
+    border-radius: 5px;
+    height: 30px;
+    text-align: center;
+    margin-left: 320px;
+    margin-top: 35px;
+    margin-bottom: 5px;
+
+}
+
+.html-button3 {
+    border-radius: 5px;
+    height: 30px;
+    text-align: center;
+    margin-left: 200px;
+    margin-top: 35px;
+    margin-bottom: 5px;
+
+}
+
+.html-button4 {
+    border-radius: 5px;
+    height: 30px;
+    text-align: center;
+    margin-left: 5px;
+    margin-top: 35px;
+    margin-bottom: 5px;
+
+}
+
+.html-button5 {
+    border-radius: 5px;
+    height: 30px;
+    text-align: center;
+    margin-left: 110px;
+    margin-top: 35px;
+    margin-bottom: 5px;
+
+}
+
+.html-per {
+    background-color: #0a0909;
+    width: 400px;
+    height: 15px;
+    border-radius: 5px;
+}
+
+.html-per1 {
+    background-color: #0a0909;
+    width: 335px;
+    height: 15px;
+    border-radius: 5px;
+}
+
+.html-per2 {
+    background-color: #0a0909;
+    width: 140px;
+    height: 15px;
+    border-radius: 5px;
+}
+
+.html-per3 {
+    background-color: #0a0909;
+    width: 285px;
+    height: 15px;
+    border-radius: 5px;
+}
+
+.education-page {
+    background-color: rgb(10, 187, 231);
+    height: 100%;
+
+}
+
+.college-name {
+    font-style: oblique;
+    font-family: sans-serif;
+    margin-left: 10%;
+    color: darkblue;
+    font-weight: bold;
+    text-decoration: underline;
+}
+
+.college-image {
+    margin-left: 10%;
+    border-radius: 50%;
+}
+
+.school-image {
+    margin-left: 12%;
+    border-radius: 45%;
+}
+
+.contact-page {
+    background-color: rgb(22, 145, 186);
+    height: 100%;
+}
+
+.contact-text {
+    padding-top: 120px;
+    font-size: 30px;
+    color: aqua;
+}
+
+.text-me {
+    font-size: 15px;
+    padding-top: 19px;
+    color: aqua;
+}
+
+.bottom-text {
+    font-size: 10px;
+    margin-top: 25px;
+    font-weight: bold;
+    margin-left: 2px;
+}
